@@ -14,7 +14,8 @@ This problem creates an array of characters which represents a bitmap of colours
 > F 3 3 J   
 > V 2 3 4 W      
 > H 3 2 4 Z       
-> S two.bmp          
+> S two.bmp
+> X        
 
 >**Output**          
 >one.bmp     
