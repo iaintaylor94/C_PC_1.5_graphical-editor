@@ -4,6 +4,6 @@ S one.bmp
 G 2 3 J
 F 3 3 J
 V 2 3 4 W
-H 3 2 4 Z
+H 3 4 2 Z
 S two.bmp
 X
